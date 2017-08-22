@@ -1,5 +1,14 @@
 # OAProject Issues提交规范
 
+- 测试地址:http://oa.unitechance.com/
+- 登录账号,密码全部123456
+1. lijiangtao 
+2. wangdong
+3. tiancailing
+4. yangchengyu
+5. chenfei
+- 请将测试结果按照以下说明填写到OAProject内issues内
+
 ## 标题
 标题按照如下格式填写:       
 大模块-子模块-问题标题  如 系统管理-用户管理-用户添加无效
